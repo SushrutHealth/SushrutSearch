@@ -1,0 +1,16 @@
+/* CSS file */
+
+
+Application
+{
+	backgroundColor: #D6D6D6;
+	themeColor: #FFFFFF;
+	verticalAlign: top;
+	padding: 0;
+}
+
+
+TextInput, List, Button {
+	borderColor: black;
+	borderThickness: 1;
+}
